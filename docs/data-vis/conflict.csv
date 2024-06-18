@@ -1,0 +1,244 @@
+country,Index Category 2023,Index Ranking 2023,Index Category July 2023,Index Ranking July 2023,Change category since July 2023,Change in ranking since July 2023,Deadliness Ranking 2023,Danger Ranking 2023,Diffusion Ranking 2023,Fragmentation Ranking 2023,Deadliness Ranking July 2023,Danger Ranking July 2023,Diffusion Ranking July 2023,Fragmentation Ranking July 2023,Change in ranking since 2019,Change category since 2019,Total score 2023
+Myanmar,Extreme,1,Extreme,1,Consistently concerning,0,3,4,9,1,2,4,8,1,17,Worsening,2.109
+Syria,Extreme,2,Extreme,2,Consistently concerning,0,10,5,4,2,8,5,3,2,-1,Consistently concerning,0.987
+Palestine,Extreme,3,High,11,Worsening,8,2,3,1,16,34,9,1,17,20,Worsening,2.456
+Mexico,Extreme,4,Extreme,3,Consistently concerning,-1,8,1,17,5,5,1,18,6,-1,Consistently concerning,1.31
+Nigeria,Extreme,5,Extreme,5,Consistently concerning,0,5,7,19,9,3,6,22,9,6,Worsening,0.728
+Brazil,Extreme,6,Extreme,6,Consistently concerning,0,9,2,30,8,6,2,27,7,0,Consistently concerning,1.105
+Colombia,Extreme,7,Extreme,10,Consistently concerning,3,17,9,22,7,17,7,23,8,0,Consistently concerning,0.471
+Haiti,Extreme,8,High,12,Worsening,4,16,23,8,10,19,27,10,10,19,Worsening,0.252
+Yemen,Extreme,9,Extreme,7,Consistently concerning,-2,14,11,11,22,12,10,9,14,-7,Consistently concerning,0.373
+Sudan,Extreme,10,High,16,Worsening,6,4,10,30,15,10,17,35,17,21,Worsening,0.682
+Democratic Republic of Congo,High,11,Extreme,9,Improving,-2,12,12,30,6,9,11,27,5,-2,Improving,0.382
+Iraq,High,12,Extreme,8,Improving,-4,19,19,12,12,14,16,11,10,-3,Improving,0.208
+Ukraine,High,13,Extreme,4,Improving,-9,1,6,6,52,1,3,4,27,13,Consistently concerning,1.527
+Pakistan,High,14,High,19,Consistently concerning,5,15,18,27,10,18,25,27,12,3,Consistently concerning,0.222
+Mali,High,15,High,15,Consistently concerning,0,11,13,27,21,13,12,27,24,9,Consistently concerning,0.323
+India,High,15,High,16,Consistently concerning,1,21,8,40,3,22,8,45,4,-8,Improving,0.495
+Burkina Faso,High,17,High,13,Consistently concerning,-4,6,15,15,45,7,15,15,38,7,Consistently concerning,0.434
+Bangladesh,High,17,High,22,Consistently concerning,5,37,16,15,13,37,19,20,14,4,Consistently concerning,0.165
+Kenya,High,19,High,22,Consistently concerning,3,25,14,30,20,25,14,35,16,25,Worsening,0.189
+Honduras,High,20,High,20,Consistently concerning,0,27,24,22,18,24,20,21,19,-4,Consistently concerning,0.134
+Jamaica,High,21,High,26,Consistently concerning,5,33,32,10,19,33,32,6,29,8,Consistently concerning,0.142
+Ethiopia,High,22,High,25,Consistently concerning,3,13,22,37,23,11,23,35,30,26,Worsening,0.235
+Israel,High,22,Turbulent,42,Worsening,20,18,39,5,33,74,52,17,31,28,Worsening,0.244
+Guatemala,High,24,High,18,Consistently concerning,-6,32,26,22,17,26,22,13,19,-10,Consistently concerning,0.119
+Cameroon,High,25,High,24,Consistently concerning,-1,23,17,25,33,20,21,26,25,-3,Consistently concerning,0.159
+Afghanistan,High,25,High,13,Consistently concerning,-12,24,20,30,24,15,13,25,22,-20,Improving,0.149
+Somalia,High,27,High,21,Consistently concerning,-6,7,21,18,59,4,18,18,45,-14,Consistently concerning,0.389
+Philippines,High,27,High,28,Consistently concerning,1,26,25,30,24,21,26,33,26,-15,Consistently concerning,0.124
+Venezuela,High,27,High,27,Consistently concerning,0,28,36,37,4,27,36,35,3,-23,Improving,0.133
+Trinidad and Tobago,High,30,High,29,Consistently concerning,-1,36,28,2,40,35,29,2,45,4,Worsening,0.316
+Lebanon,Turbulent,31,Turbulent,40,Consistent,9,41,49,3,24,58,72,7,31,11,Consistent,0.207
+Burundi,Turbulent,32,Turbulent,35,Consistent,3,47,34,13,37,46,33,27,45,-12,Improving,0.085
+South Africa,Turbulent,33,Turbulent,38,Consistent,5,38,27,40,33,39,28,45,44,6,Consistent,0.087
+Niger,Turbulent,34,High,30,Improving,-4,22,33,40,45,23,24,35,45,2,Consistent,0.097
+Central African Republic,Turbulent,34,Turbulent,34,Consistent,0,30,43,37,30,29,44,45,31,4,Consistent,0.058
+Russia,Turbulent,36,Turbulent,39,Consistent,3,42,29,40,33,45,34,45,38,19,Worsening,0.076
+South Sudan,Turbulent,37,Turbulent,31,Consistent,-6,20,30,54,44,16,30,45,43,-7,Improving,0.105
+Madagascar,Turbulent,38,Low/Inactive,51,Worsening,13,31,35,54,30,30,39,59,70,13,Worsening,0.07
+Puerto Rico,Turbulent,39,Turbulent,33,Consistent,-6,46,40,7,59,43,38,5,55,8,Consistent,0.116
+Ecuador,Turbulent,40,Turbulent,46,Consistent,6,53,48,30,24,64,49,45,27,57,Worsening,0.041
+Turkey,Turbulent,41,Turbulent,32,Consistent,-9,50,38,54,14,41,40,45,13,-14,Improving,0.063
+Uganda,Turbulent,42,Turbulent,36,Consistent,-6,34,31,40,59,32,31,35,55,3,Consistent,0.074
+Benin,Turbulent,43,Turbulent,45,Consistent,2,43,37,26,66,43,41,33,61,30,Worsening,0.053
+Indonesia,Turbulent,44,Turbulent,42,Consistent,-2,48,41,54,37,38,46,59,31,-4,Consistent,0.043
+Mozambique,Turbulent,45,Turbulent,37,Consistent,-8,39,47,54,45,28,37,35,55,-8,Consistent,0.038
+Iran,Turbulent,46,Turbulent,44,Consistent,-2,44,51,54,43,36,35,59,45,9,Worsening,0.033
+Belize,Turbulent,47,Low/Inactive,55,Worsening,8,61,62,27,45,62,62,27,61,-6,Consistent,0.021
+Zimbabwe,Turbulent,48,Low/Inactive,57,Worsening,9,63,42,40,52,64,47,59,45,10,Worsening,0.036
+Chad,Turbulent,49,Turbulent,47,Consistent,-2,40,60,54,45,31,58,59,38,-7,Consistent,0.024
+Papua New Guinea,Turbulent,50,Low/Inactive,53,Worsening,3,35,52,40,73,40,50,59,61,83,Worsening,0.034
+United States,Low/Inactive,51,Turbulent,50,Improving,-1,54,45,54,52,55,45,59,31,82,Consistent,0.031
+Libya,Low/Inactive,52,Turbulent,49,Improving,-3,52,75,54,30,50,71,45,22,-37,Improving,0.017
+Ghana,Low/Inactive,53,Turbulent,47,Improving,-6,49,44,54,66,48,42,35,61,4,Consistent,0.036
+Peru,Low/Inactive,53,Low/Inactive,59,Consistent,6,59,55,54,45,67,53,59,55,17,Consistent,0.022
+Azerbaijan,Low/Inactive,55,Low/Inactive,65,Consistent,10,29,53,14,118,54,56,13,125,20,Consistent,0.056
+Nepal,Low/Inactive,56,Low/Inactive,52,Consistent,-4,100,49,40,29,87,48,45,21,-24,Improving,0.033
+Chile,Low/Inactive,57,Low/Inactive,75,Consistent,18,86,54,40,40,98,51,59,70,-3,Consistent,0.025
+El Salvador,Low/Inactive,58,Low/Inactive,53,Consistent,-5,55,75,54,40,51,69,59,31,-39,Improving,0.014
+Greece,Low/Inactive,59,Low/Inactive,66,Consistent,7,96,57,40,37,108,60,45,38,-6,Consistent,0.021
+eSwatini,Low/Inactive,60,Turbulent,41,Improving,-19,64,66,54,52,58,54,12,45,51,Consistent,0.013
+France,Low/Inactive,61,Low/Inactive,61,Consistent,0,96,65,54,24,83,65,59,31,72,Consistent,0.018
+Malawi,Low/Inactive,62,Low/Inactive,67,Consistent,5,58,56,54,73,61,57,59,86,-1,Consistent,0.018
+Morocco,Low/Inactive,63,Low/Inactive,63,Consistent,0,61,75,54,52,69,69,59,45,19,Consistent,0.011
+Angola,Low/Inactive,64,Low/Inactive,58,Consistent,-6,55,61,54,73,51,64,59,55,13,Consistent,0.014
+Guinea,Low/Inactive,65,Low/Inactive,77,Consistent,12,60,64,54,73,66,68,59,86,-1,Consistent,0.012
+Ivory Coast,Low/Inactive,66,Low/Inactive,72,Consistent,6,67,74,54,59,62,75,59,78,-7,Consistent,0.01
+China,Low/Inactive,66,Low/Inactive,69,Consistent,3,81,46,54,73,83,43,59,86,-20,Improving,0.027
+Tanzania,Low/Inactive,68,Low/Inactive,72,Consistent,4,69,73,54,59,72,82,59,61,-3,Consistent,0.01
+Senegal,Low/Inactive,69,Low/Inactive,74,Consistent,5,73,85,40,59,87,83,45,61,27,Consistent,0.008
+Sierra Leone,Low/Inactive,70,Low/Inactive,79,Consistent,9,65,70,40,85,77,72,45,86,-10,Consistent,0.01
+Paraguay,Low/Inactive,70,Low/Inactive,56,Consistent,-14,81,80,54,45,68,63,45,38,-5,Consistent,0.009
+Bolivia,Low/Inactive,72,Low/Inactive,80,Consistent,8,71,67,54,73,98,79,59,61,11,Consistent,0.01
+Zambia,Low/Inactive,73,Low/Inactive,69,Consistent,-4,70,78,54,66,79,78,59,55,-1,Consistent,0.009
+Argentina,Low/Inactive,74,Low/Inactive,62,Consistent,-12,86,71,54,59,76,61,59,45,-5,Consistent,0.01
+Thailand,Low/Inactive,75,Low/Inactive,68,Consistent,-7,55,85,54,85,57,80,59,70,-26,Improving,0.006
+Sri Lanka,Low/Inactive,76,Low/Inactive,88,Consistent,12,86,68,54,73,98,90,59,70,-41,Improving,0.009
+Togo,Low/Inactive,77,Low/Inactive,64,Consistent,-13,51,89,54,94,49,76,35,86,7,Consistent,0.006
+Liberia,Low/Inactive,78,Low/Inactive,94,Consistent,16,79,91,54,66,93,96,59,86,-4,Consistent,0.005
+Armenia,Low/Inactive,79,Low/Inactive,71,Consistent,-8,66,89,19,118,42,90,15,125,9,Consistent,0.016
+Germany,Low/Inactive,79,Low/Inactive,93,Consistent,14,81,63,54,94,87,85,59,96,54,Consistent,0.009
+Algeria,Low/Inactive,81,Low/Inactive,80,Consistent,-1,72,96,54,73,70,98,59,70,11,Consistent,0.004
+Egypt,Low/Inactive,82,Low/Inactive,60,Consistent,-22,67,82,54,94,53,77,45,61,-49,Improving,0.005
+Mauritania,Low/Inactive,83,Low/Inactive,85,Consistent,2,81,114,54,52,81,127,59,45,25,Consistent,0.005
+Dominican Republic,Low/Inactive,84,Low/Inactive,97,Consistent,13,73,82,54,94,75,86,59,125,7,Consistent,0.005
+Kazakhstan,Low/Inactive,84,Low/Inactive,91,Consistent,7,105,59,54,85,112,59,59,96,-4,Consistent,0.013
+Cyprus,Low/Inactive,86,Low/Inactive,111,Consistent,25,125,79,19,85,112,80,59,125,13,Consistent,0.02
+Cuba,Low/Inactive,87,Low/Inactive,77,Consistent,-10,93,58,40,118,93,55,35,96,24,Consistent,0.013
+Guinea-Bissau,Low/Inactive,88,Low/Inactive,101,Consistent,13,96,98,54,66,125,102,59,70,33,Consistent,0.004
+Nicaragua,Low/Inactive,89,Low/Inactive,84,Consistent,-5,73,98,54,94,81,96,59,70,-37,Consistent,0.003
+Uzbekistan,Low/Inactive,90,Low/Inactive,86,Consistent,-4,102,71,54,94,93,66,59,96,-3,Consistent,0.007
+Kyrgyzstan,Low/Inactive,90,Low/Inactive,75,Consistent,-15,105,68,54,94,56,67,59,96,-12,Consistent,0.008
+Kosovo,Low/Inactive,92,Low/Inactive,87,Consistent,-5,96,80,54,94,125,72,23,96,-3,Consistent,0.005
+Saudi Arabia,Low/Inactive,93,Low/Inactive,82,Consistent,-11,45,133,54,94,47,110,59,86,-31,Consistent,0.007
+Moldova,Low/Inactive,94,Low/Inactive,131,Consistent,37,113,108,54,52,125,133,59,96,-10,Consistent,0.005
+Rwanda,Low/Inactive,95,Low/Inactive,90,Consistent,-5,86,96,54,94,80,90,59,96,-32,Consistent,0.003
+Panama,Low/Inactive,96,Low/Inactive,106,Consistent,10,86,98,54,94,98,113,59,96,7,Consistent,0.003
+Italy,Low/Inactive,96,Low/Inactive,95,Consistent,-1,125,87,54,66,112,86,59,78,37,Consistent,0.005
+Republic of Congo,Low/Inactive,98,Low/Inactive,82,Consistent,-16,93,114,54,73,72,93,59,78,24,Consistent,0.003
+Belarus,Low/Inactive,99,Low/Inactive,100,Consistent,1,105,82,54,94,112,83,59,96,11,Consistent,0.004
+Hungary,Low/Inactive,100,Low/Inactive,99,Consistent,-1,125,91,54,66,125,95,59,70,33,Consistent,0.005
+Tunisia,Low/Inactive,101,Low/Inactive,98,Consistent,-3,79,88,54,118,91,102,59,96,-34,Consistent,0.003
+Poland,Low/Inactive,102,Low/Inactive,139,Consistent,37,113,94,40,94,125,122,59,125,31,Consistent,0.004
+Georgia,Low/Inactive,103,Low/Inactive,135,Consistent,32,105,98,54,85,125,113,59,125,-27,Consistent,0.003
+Belgium,Low/Inactive,104,Low/Inactive,125,Consistent,21,102,114,54,73,108,133,59,96,29,Consistent,0.003
+Gabon,Low/Inactive,105,Low/Inactive,118,Consistent,13,105,103,54,85,125,107,59,96,12,Consistent,0.003
+Botswana,Low/Inactive,106,Low/Inactive,108,Consistent,2,86,91,54,118,96,93,59,125,22,Consistent,0.003
+Lesotho,Low/Inactive,107,Low/Inactive,119,Consistent,12,77,103,54,118,83,122,59,125,-15,Consistent,0.002
+Guyana,Low/Inactive,108,Low/Inactive,102,Consistent,-6,113,103,54,85,112,102,59,86,11,Consistent,0.003
+North Korea,Low/Inactive,109,Low/Inactive,96,Consistent,-13,73,114,54,118,70,89,59,125,0,Consistent,0.001
+Comoros,Low/Inactive,109,Low/Inactive,117,Consistent,8,113,98,54,94,104,98,59,125,24,Consistent,0.002
+Vietnam,Low/Inactive,111,Low/Inactive,115,Consistent,4,78,139,54,94,83,145,59,96,-4,Consistent,0.001
+Romania,Low/Inactive,112,Low/Inactive,109,Consistent,-3,125,114,54,73,125,113,59,78,4,Consistent,0.003
+Tajikistan,Low/Inactive,113,Low/Inactive,88,Consistent,-25,93,128,54,94,60,102,59,96,-42,Consistent,0.001
+United Kingdom,Low/Inactive,113,Low/Inactive,91,Consistent,-22,113,108,54,94,108,98,59,61,20,Consistent,0.002
+Mauritius,Low/Inactive,115,Low/Inactive,113,Consistent,-2,105,94,54,118,108,88,59,125,18,Consistent,0.002
+Gambia,Low/Inactive,116,Low/Inactive,104,Consistent,-12,105,128,54,85,104,113,59,86,-11,Consistent,0.002
+Canada,Low/Inactive,117,Low/Inactive,103,Consistent,-14,100,103,54,118,98,107,59,96,16,Consistent,0.002
+Albania,Low/Inactive,117,Low/Inactive,123,Consistent,6,113,114,54,94,112,127,59,96,-12,Consistent,0.002
+Spain,Low/Inactive,117,Low/Inactive,119,Consistent,2,125,123,54,73,125,127,59,78,16,Consistent,0.003
+Costa Rica,Low/Inactive,120,Low/Inactive,126,Consistent,6,105,123,54,94,104,110,59,125,-40,Consistent,0.001
+Serbia,Low/Inactive,120,Low/Inactive,114,Consistent,-6,125,103,54,94,125,102,59,96,-42,Consistent,0.002
+Jordan,Low/Inactive,122,Low/Inactive,109,Consistent,-13,81,161,54,85,87,133,59,96,-25,Consistent,0.002
+Suriname,Low/Inactive,122,Low/Inactive,121,Consistent,-1,125,108,54,94,125,110,59,96,-23,Consistent,0.002
+Bosnia and Herzegovina,Low/Inactive,124,Low/Inactive,107,Consistent,-17,125,113,54,94,125,107,59,78,-35,Consistent,0.002
+Netherlands,Low/Inactive,125,Low/Inactive,122,Consistent,-3,125,114,54,94,125,113,59,96,8,Consistent,0.002
+Namibia,Low/Inactive,126,Low/Inactive,128,Consistent,2,102,114,54,118,104,113,59,125,-7,Consistent,0.001
+Djibouti,Low/Inactive,127,Low/Inactive,105,Consistent,-22,86,133,54,118,77,133,59,96,-26,Consistent,0.001
+Bahamas,Low/Inactive,128,Low/Inactive,135,Consistent,7,125,108,54,118,125,113,59,125,0,Consistent,0.001
+Czech Republic,Low/Inactive,128,Low/Inactive,135,Consistent,7,125,108,54,118,125,113,59,125,5,Consistent,0.001
+Maldives,Low/Inactive,130,Low/Inactive,154,Consistent,24,125,133,54,94,125,163,59,96,3,Consistent,0.001
+North Macedonia,Low/Inactive,131,Low/Inactive,144,Consistent,13,125,114,54,118,125,127,59,125,-20,Consistent,0.001
+Mayotte,Low/Inactive,132,Low/Inactive,130,Consistent,-2,125,123,54,118,112,113,59,125,1,Consistent,0.001
+Austria,Low/Inactive,132,Low/Inactive,139,Consistent,7,125,123,54,118,125,122,59,125,1,Consistent,0.001
+Bahrain,Low/Inactive,132,Low/Inactive,112,Consistent,-20,125,123,54,118,125,98,59,96,-21,Consistent,0.001
+Uruguay,Low/Inactive,135,Low/Inactive,138,Consistent,3,113,139,54,118,112,133,59,125,-41,Consistent,0
+French Guiana,Low/Inactive,135,Low/Inactive,147,Consistent,12,113,139,54,118,112,145,59,125,-2,Consistent,0
+Solomon Islands,Low/Inactive,135,Low/Inactive,147,Consistent,12,113,139,54,118,112,145,59,125,-2,Consistent,0
+Antigua and Barbuda,Low/Inactive,135,Low/Inactive,167,Consistent,32,113,139,54,118,125,163,59,125,-7,Consistent,0
+Montenegro,Low/Inactive,135,Low/Inactive,147,Consistent,12,113,139,54,118,112,145,59,125,-33,Consistent,0
+Saint Lucia,Low/Inactive,140,Low/Inactive,156,Consistent,16,125,128,54,118,125,145,59,125,-17,Consistent,0.001
+Sweden,Low/Inactive,140,Low/Inactive,139,Consistent,-1,125,128,54,118,125,122,59,125,-7,Consistent,0.001
+Ireland,Low/Inactive,140,Low/Inactive,139,Consistent,-1,125,128,54,118,125,122,59,125,-7,Consistent,0.001
+Slovenia,Low/Inactive,143,Low/Inactive,156,Consistent,13,125,133,54,118,125,145,59,125,-10,Consistent,0
+Malta,Low/Inactive,143,Low/Inactive,156,Consistent,13,125,133,54,118,125,145,59,125,-10,Consistent,0
+Laos,Low/Inactive,143,Low/Inactive,151,Consistent,8,125,133,54,118,125,133,59,125,-19,Consistent,0
+Reunion,Low/Inactive,146,Low/Inactive,144,Consistent,-2,125,139,54,118,125,127,59,125,-13,Consistent,0
+Norway,Low/Inactive,146,Low/Inactive,156,Consistent,10,125,139,54,118,125,145,59,125,-13,Consistent,0
+Martinique,Low/Inactive,146,Low/Inactive,167,Consistent,21,125,139,54,118,125,163,59,125,-13,Consistent,0
+Iceland,Low/Inactive,146,Low/Inactive,167,Consistent,21,125,139,54,118,125,163,59,125,-13,Consistent,0
+Samoa,Low/Inactive,146,Low/Inactive,167,Consistent,21,125,139,54,118,125,163,59,125,-13,Consistent,0
+Cambodia,Low/Inactive,146,Low/Inactive,131,Consistent,-15,125,139,54,118,125,133,59,96,-60,Consistent,0
+Malaysia,Low/Inactive,146,Low/Inactive,129,Consistent,-17,125,139,54,118,125,145,59,78,-78,Consistent,0
+Guadeloupe,Low/Inactive,146,Low/Inactive,156,Consistent,10,125,139,54,118,125,145,59,125,-13,Consistent,0
+Cape Verde,Low/Inactive,146,Low/Inactive,156,Consistent,10,125,139,54,118,125,145,59,125,-13,Consistent,0
+Finland,Low/Inactive,146,Low/Inactive,156,Consistent,10,125,139,54,118,125,145,59,125,-13,Consistent,0
+Lithuania,Low/Inactive,146,Low/Inactive,156,Consistent,10,125,139,54,118,125,145,59,125,-13,Consistent,0
+East Timor,Low/Inactive,146,Low/Inactive,156,Consistent,10,125,139,54,118,125,145,59,125,-13,Consistent,0
+Sao Tome and Principe,Low/Inactive,146,Low/Inactive,116,Consistent,-30,125,139,54,118,96,133,59,96,-13,Consistent,0
+Japan,Low/Inactive,146,Low/Inactive,127,Consistent,-19,125,139,54,118,112,133,59,96,-18,Consistent,0
+Slovakia,Low/Inactive,146,Low/Inactive,144,Consistent,-2,125,139,54,118,125,127,59,125,-13,Consistent,0
+Oman,Low/Inactive,146,Low/Inactive,156,Consistent,10,125,139,54,118,125,145,59,125,-13,Consistent,0
+Eritrea,Low/Inactive,162,Low/Inactive,154,Consistent,-8,113,161,54,118,125,163,59,96,-29,Consistent,0
+Australia,Low/Inactive,163,Low/Inactive,134,Consistent,-29,125,161,54,118,91,145,59,125,-30,Consistent,0
+French Polynesia,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Denmark,Low/Inactive,163,Low/Inactive,151,Consistent,-12,125,161,54,118,125,133,59,125,-30,Consistent,0
+Saint-Martin,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Switzerland,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Vanuatu,Low/Inactive,163,Low/Inactive,147,Consistent,-16,125,161,54,118,112,145,59,125,-30,Consistent,0
+American Samoa,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Andorra,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Anguilla,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Aruba,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Bailiwick of Guernsey,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Bailiwick of Jersey,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Barbados,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Bermuda,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Bhutan,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+British Indian Ocean Territory,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+British Virgin Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Brunei,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Bulgaria,Low/Inactive,163,Low/Inactive,143,Consistent,-20,125,161,54,118,125,163,59,86,-45,Consistent,0
+Caribbean Netherlands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Cayman Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Christmas Island,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Cocos (Keeling) Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Cook Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Croatia,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-59,Consistent,0
+Curacao,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Dominica,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-37,Consistent,0
+Equatorial Guinea,Low/Inactive,163,Low/Inactive,133,Consistent,-30,125,161,54,118,98,163,59,96,-39,Consistent,0
+Estonia,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Falkland Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Faroe Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Fiji,Low/Inactive,163,Low/Inactive,156,Consistent,-7,125,161,54,118,125,145,59,125,-30,Consistent,0
+Gibraltar,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Greenland,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Grenada,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Guam,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Heard Island and McDonald Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Isle of Man,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Kuwait,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Latvia,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Liechtenstein,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Luxembourg,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Marshall Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Micronesia,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Monaco,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Mongolia,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Montserrat,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Nauru,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+New Caledonia,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+New Zealand,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Niue,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Norfolk Island,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Pitcairn,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Portugal,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Qatar,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+"Saint Helena, Ascension and Tristan da Cunha",Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Saint Kitts and Nevis,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Saint Pierre and Miquelon,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Saint Vincent and the Grenadines,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Saint-Barthelemy,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+San Marino,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Seychelles,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Singapore,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Sint Maarten,Low/Inactive,163,Low/Inactive,151,Consistent,-12,125,161,54,118,125,133,59,125,-30,Consistent,0
+South Georgia and the South Sandwich Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+South Korea,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-36,Consistent,0
+Taiwan,Low/Inactive,163,Low/Inactive,124,Consistent,-39,125,161,54,118,125,133,59,78,-48,Consistent,0
+Tokelau,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Tonga,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Turkmenistan,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-69,Consistent,0
+Turks and Caicos Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Tuvalu,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+United Arab Emirates,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-35,Consistent,0
+United States Minor Outlying Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+"Virgin Islands, U.S.",Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Wallis and Futuna,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Kiribati,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Northern Mariana Islands,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Palau,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+Antarctica,Low/Inactive,163,Low/Inactive,167,Consistent,4,125,161,54,118,125,163,59,125,-30,Consistent,0
+French Southern and Antarctic Lands,Low/Inactive,163,,,,,125,161,54,118,,,,,-30,Consistent,0
